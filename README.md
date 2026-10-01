@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rae Williams 👋
 
-<!--
-**Rae513/Rae513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity.
 
-Here are some ideas to get you started:
+Feel free to explore my work and see how I've put effort into enhancing security operations and processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚠️ Vulnerability Management
+
+- **[Vulnerability Management Program Implementation](https://github.com/Rae513/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/rae513/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rae513/threat-hunting-scenario-tor)**
+
+---
+
+## 🤳 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rae-williams-964628126/)
